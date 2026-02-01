@@ -1,7 +1,7 @@
 # iGotHub
 
 <p align="center">
-  <img src="igothub-app/src/static/app-icons/android/icon-192.png" width="80" alt="iGotHub Logo">
+  <img src="docs/image/LOCAL_BUILD/icon-192.png" width="80" alt="iGotHub Logo">
 </p>
 
 <p align="center">
@@ -36,7 +36,7 @@
 
 | 版本   | 下载链接                                                   | 更新日期   |
 | ------ | ---------------------------------------------------------- | ---------- |
-| v1.0.0 | [GitHub Release](https://github.com/LinkDry/iGotHub/releases) | 2026-02-01 |
+| v1.0.0 | [GitHub Release](https://github.com/LinkDry/iGotHub-release/releases) | 2026-02-01 |
 
 > 💡 首次安装需要允许"安装未知来源应用"
 
@@ -176,3 +176,4 @@ MIT License
 <p align="center">
   Made with ❤️ by iGotHub Team
 </p>
+
